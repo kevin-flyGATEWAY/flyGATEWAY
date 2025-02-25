@@ -1,6 +1,0 @@
-{
-	"rewrites": [
-	  { "source": "/proxy/:match*", "destination": "{{domain}}/:match*" }
-	],
-	"cleanUrls": true
- }
