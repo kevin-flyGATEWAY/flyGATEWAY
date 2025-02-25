@@ -12,5 +12,8 @@
 [template.environment]
   WEBFLOW_URL = ""
 
+[build.environment]
+  GO_VERSION = "1.19"
+
 # [[plugins]]
 # package = "netlify-plugin-subfont"
